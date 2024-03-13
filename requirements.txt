@@ -1,5 +1,5 @@
 blinker==1.7.0
-psycopg2==2.9.15
+psycopg2==2.9.9
 click==8.1.7
 Flask==3.0.2
 gunicorn==21.2.0
